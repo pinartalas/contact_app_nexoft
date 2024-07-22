@@ -1,6 +1,12 @@
 # contact_app
 
-A new Flutter project.
+Nexoft Contact App
+
+-Contact List Screen
+-Ad Contact Screen 
+-Contact Item Screen
+
+
 
 ## Getting Started
 
